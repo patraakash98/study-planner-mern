@@ -1,0 +1,1 @@
+.filters{display:flex;align-items:center;gap:5px}.filter-label{font:9px 'DM Mono';color:#a0a19b;margin-right:7px}.filter{border:0;background:transparent;color:#92938d;padding:6px 8px;font:10px 'DM Mono';cursor:pointer;border-radius:3px}.filter.active{background:#e4e3dc;color:var(--ink)}@media(max-width:540px){.filters{width:100%}.filter{padding-left:0;margin-right:12px}}
